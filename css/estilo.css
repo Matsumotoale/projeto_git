@@ -18,7 +18,10 @@ h1 {
 
 .cabecalho {
   text-align: center;
-  height: 80px;
+  font-size: 26px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #ffffff;
+  height: 60px;
   border-bottom: 2px solid azure;
 }
 
