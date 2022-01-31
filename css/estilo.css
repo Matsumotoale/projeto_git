@@ -48,6 +48,10 @@ ul.menu > li{
   
 
 }
+
+.titulo {
+  display: inline-block;
+}
     
 }
 
@@ -59,5 +63,20 @@ ul.menu > li{
   color: #ffffff;
 }
 
+
+.botao-menu {
+  display: inline-block;
+  background-color: #48d3dd;
+  text-decoration: none;
+  color: #ffffff;
+  padding: 10px 10px;
+  border-radius: 10px;
+
+}
+
+.botao-menu:hover, .botao-menu:focus{
+  background-color: aqua;
+  
+}
 
 
