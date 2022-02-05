@@ -4,7 +4,7 @@
 }
 
 body {
-  
+
   background-color: #48d3dd;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -17,13 +17,19 @@ h1 {
 }
 
 .cabecalho {
-  text-align: center;
+  box-sizing: border-box;
   font-size: 16px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: #ffffff;
 
   height: 60px;
   border-bottom: 2px solid azure;
+}
+
+.titulo {
+
+  display: inline-block;
+
 }
 
 ul.menu {
@@ -49,9 +55,7 @@ ul.menu > li{
 
 }
 
-.titulo {
-  display: inline-block;
-}
+
     
 }
 
