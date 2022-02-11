@@ -9,10 +9,10 @@ body {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-img > .container > .corpo > figure {
-
+img {
   border-radius: 10px;
-  margin-right: 5px;
+  margin-right: 15px;
+  float: left;
 }
 
 
