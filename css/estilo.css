@@ -66,8 +66,12 @@ ul.menu > li{
 .tab_find {
   width: 600px;
   border:2px solid #ffffff;
+  
 }
 
+td{
+  border: 2px solid #ffffff;
+}
     
 }
 
