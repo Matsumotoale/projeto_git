@@ -1,0 +1,23 @@
+*{
+background-color: rgb(81, 97, 97);
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: #d4e7f88f;
+}
+
+header{
+  border-bottom: 1px solid #ffffff;
+  
+}
+
+.container {
+  width: 1280px;
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+ 
+}
+
+article {
+  border: 1px solid #d4e7f88f;
+  width: 380px;
+}
